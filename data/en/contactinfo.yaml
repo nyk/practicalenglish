@@ -1,0 +1,9 @@
+contactformaction: 'post-action'
+
+address:
+- line: 'Chang Khlan Road,'
+- line: 'A. Mueng, Chiang Mai, 500100'
+
+phone: '099-476-2009'
+
+email: 'nyk@cowham.net'

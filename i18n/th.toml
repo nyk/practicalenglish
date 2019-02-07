@@ -1,0 +1,28 @@
+[CONTACT_ADDRESS]
+  other = "ที่อยู่"
+[CONTACT_EMAIL]
+  other = "อีเมล"
+[CONTACT_FORM_FIELD_EMAIL]
+  other = "อีเมล"
+[CONTACT_FORM_FIELD_MESSAGE]
+  other = "อีเมล"
+[CONTACT_FORM_FIELD_NAME]
+  other = "ชื่อ"
+[CONTACT_FORM_SUBMIT_SEND_MESSAGE]
+  other = "ส่งอีเมล"
+[CONTACT_PHONE]
+  other = "โทร"
+[CONTACT_SOCIAL]
+  other = "สื่อสังคม"
+[COPYRIGHT_MESSAGE_1]
+  other = "ออกแบบ: [Cowham Technology](http://www.cowham.net)"
+[COPYRIGHT_MESSAGE_2]
+  other = "ลิขสิทธิ์ Nicholas Cowham, 2019"
+[INTRO_CONTINUE]
+  other = "ทำต่อไป"
+[NAV_CONTACT]
+  other = "ติดต่อ"
+[PAGINATION_NEXT]
+  other = "หน้า"
+[PAGINATION_PREVIOUS]
+  other = "ที่แล้ว"

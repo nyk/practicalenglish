@@ -1,0 +1,9 @@
+contactformaction: 'post-action'
+
+address:
+- line: 'ถนน ช้างคลาน'
+- line: 'อำเภอเมือง, จังหวัดเชียงใหม่, 500100'
+
+phone: '099-476-2009'
+
+email: 'nyk@cowham.net'
