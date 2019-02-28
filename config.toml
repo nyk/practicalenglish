@@ -1,6 +1,7 @@
 languageCode = "en-us"
 title = "Massively"
-baseURL = "http://localhost:1313"
+baseURL = "http://nyk.github.io/practicalenglish"
+publishDir = "docs"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
